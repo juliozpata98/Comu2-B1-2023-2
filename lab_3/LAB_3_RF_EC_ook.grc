@@ -226,7 +226,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [150, 200]
+    coordinate: [256, 196.0]
     rotation: 0
     state: true
 - name: blocks_multiply_const_vxx_0
@@ -413,7 +413,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [511, 197]
+    coordinate: [528, 180.0]
     rotation: 0
     state: true
 - name: qtgui_const_sink_x_0
@@ -1081,7 +1081,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [696, 298]
+    coordinate: [716.0, 296]
     rotation: 270
     state: true
 - name: virtual_sink_0_0_0_0
