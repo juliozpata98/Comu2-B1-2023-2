@@ -100,7 +100,7 @@ class punto_1(gr.top_block, Qt.QWidget):
         self.qtgui_time_sink_x_1_1 = qtgui.time_sink_f(
             1024, #size
             Samp_rate, #samp_rate
-            "Señal post decoder", #name
+            "Señal demodulada", #name
             1, #number of inputs
             None # parent
         )
